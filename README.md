@@ -1,11 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/84535835/210224812-31abb115-1194-492e-8caa-a035cbfdc9fd.png)
-<i>Dash badge</i>
-
 <a href="https://www.linkedin.com/in/abhay-anand-15a819212/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?logo=LinkedIn" alt="LinkedIn - Profile"></a>
-
-<i>Query parameter badge</i>
-
-<a href="https://www.linkedin.com/in/abhay-anand-15a819212/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=0a66c2&logo=LinkedIn" alt="LinkedIn - Profile"></a>
+<a href="https://twitter.com/AnandAbhay08"><img src="https://img.shields.io/badge/Twitter-Profile-1DA1F2?logo=Twitter" alt="Twitter - Profile"></a>
+<a href="https://github.com/abhayanand08"><img src="https://img.shields.io/badge/GitHub-Profile-000000?logo=Github" alt="GitHub - Profile"></a>
 
 ### Hi there 👋
 
