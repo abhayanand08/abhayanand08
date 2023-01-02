@@ -6,7 +6,7 @@ I am very determined towards my work.
 <p>Want to know more about me? Check out my social handles below:-</p><br>
 <a href="https://www.linkedin.com/in/abhay-anand-15a819212/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?logo=LinkedIn" alt="LinkedIn - Profile"></a>
 <a href="https://twitter.com/AnandAbhay08"><img src="https://img.shields.io/badge/Twitter-Profile-1DA1F2?logo=Twitter" alt="Twitter - Profile"></a>
-<a href="https://github.com/abhayanand08"><img src="https://img.shields.io/badge/GitHub-Profile-000000?logo=Github" alt="GitHub - Profile"></a>
+<a href="https://github.com/abhayanand08"><img src="https://img.shields.io/badge/GitHub-Profile-000000?logo=Github" alt="GitHub - Profile"></a><br>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!--
 **abhayanand08/abhayanand08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
