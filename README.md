@@ -1,10 +1,10 @@
 ![banner](https://user-images.githubusercontent.com/84535835/210224812-31abb115-1194-492e-8caa-a035cbfdc9fd.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Hi there 👋
+#### Hi there 👋
 I am Abhay Anand, a Web developer 👨🏻‍💻 from India.Currently I am Exploring React.js, Next.js, Node.js, MongoDB.Beside Web Devlopment ,I used to do Android Development 📱.
 I am very determined towards my work.
 
-#### Want to know more about me? Check out my social handles below:-<br>
+#### Want to know more about me? Check out my social handles below :-
 <a href="https://www.linkedin.com/in/abhay-anand-15a819212/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?logo=LinkedIn" alt="LinkedIn - Profile"></a>
 <a href="https://twitter.com/AnandAbhay08"><img src="https://img.shields.io/badge/Twitter-Profile-1DA1F2?logo=Twitter" alt="Twitter - Profile"></a>
 <a href="https://github.com/abhayanand08"><img src="https://img.shields.io/badge/GitHub-Profile-000000?logo=Github" alt="GitHub - Profile"></a>
