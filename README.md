@@ -24,6 +24,7 @@ I am Abhay Anand 🤵🏻‍♂️, a Web developer 👨🏻‍💻 from India. 
   </div>
   
   ## 📈 GitHub Stats 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=abhayanand08&theme=dark)](https://git.io/streak-stats)
 <!--
 **abhayanand08/abhayanand08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
