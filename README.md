@@ -24,7 +24,7 @@ I am Abhay Anand 🤵🏻‍♂️, a Web developer 👨🏻‍💻 from India. 
   </div>
   
   ## 📈 GitHub Stats 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhayanand08&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhayanand08&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayanand08&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=abhayanand08&theme=dark)](https://git.io/streak-stats)
   
